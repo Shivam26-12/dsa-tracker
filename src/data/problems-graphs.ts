@@ -1327,7 +1327,7 @@ export const graphProblems: Problem[] = [
     id: 100,
     title: 'Codeforces — Shortest Paths (1810G)',
     link: 'https://codeforces.com/problemset/problem/1810/G',
-    difficulty: 'Very Hard',
+    difficulty: 'Hard',
     topic: 'Graphs',
     pattern: 'Advanced Graph Techniques',
     platform: 'Codeforces',

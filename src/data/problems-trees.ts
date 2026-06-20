@@ -1324,7 +1324,7 @@ export const treeProblems: Problem[] = [
     id: 200,
     title: 'CSES Centroid Decomposition',
     link: 'https://cses.fi/problemset/task/2080',
-    difficulty: 'Very Hard',
+    difficulty: 'Hard',
     topic: 'Trees',
     pattern: 'Tree DP',
     platform: 'CSES',
