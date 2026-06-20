@@ -42,7 +42,7 @@ export function SyncProvider({ children }: { children: React.ReactNode }) {
             problemsData: cloudData,
             currentStreak: store.currentStreak,
             longestStreak: store.longestStreak,
-            lastActivityDate: store.lastActivityDate
+            lastActiveDate: store.lastActiveDate
           });
         }
       } catch (err) {
