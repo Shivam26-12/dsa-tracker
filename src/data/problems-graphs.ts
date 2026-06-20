@@ -1301,7 +1301,7 @@ export const graphProblems: Problem[] = [
     id: 98,
     title: 'Codeforces — Roads in HackerLand (MST + Bitmask)',
     link: 'https://codeforces.com/problemset/problem/196/E',
-    difficulty: 'Very Hard',
+    difficulty: 'Hard',
     topic: 'Graphs',
     pattern: 'Kruskal',
     platform: 'Codeforces',
